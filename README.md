@@ -3,6 +3,8 @@
 This folder contains the complete code for the Skills Hub blog series:
 CoCo integration, Streamlit browser, and Marketplace sharing.
 
+The article is here: https://medium.com/@bart.wrobel/simple-skill-sharing-in-coco-cortex-code-cli-5a790d96c739
+
 ## What is new in SKILL files
 
 The SKILL.md files now include:
